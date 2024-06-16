@@ -1,4 +1,4 @@
-# Little Amazon Price Tracker
+# Little Amazon Price Tracker v 1.0.0
 - Get Link to Website with Items
 - Get Items Links
 - Extract Info about Items
