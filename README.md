@@ -1,1 +1,1 @@
-Simple bot made with python to keep track of Amazon's prices v 1.0
+Simple bot made with python to keep track of Amazon's prices v 1.0.0
