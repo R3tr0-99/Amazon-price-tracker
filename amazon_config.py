@@ -6,7 +6,7 @@ CURRENCY= "€"
 MIN_PRICE= "300"
 MAX_PRICE= "500"
 FILTERS= {
-    "min": MIN_PRICE
+    "min": MIN_PRICE, 
     "max": MAX_PRICE
 }
 BASE_URL= "http://www.amazon.it/"
